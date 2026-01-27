@@ -3,7 +3,7 @@
 Meu nome é **Lucas Carvalho** e atualmente sou estudante de **Ciência da Computação** na  
 **Universidade Federal Rural de Pernambuco (UFRPE)**.
 
-🎯 Tenho interesse em desenvolvimento **Front-end**, com interesse em evoluir para **Full stack** e venho aprimorando minhas habilidades
+🎯 Tenho interesse em desenvolvimento **Full stack** e venho aprimorando minhas habilidades
 por meio de projetos práticos e estudos constantes.
 
 ---
