@@ -1,7 +1,7 @@
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Ol%C3%A1,%20eu%20sou%20Lucas%20Carvalho%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=464F47"  />
-</div>
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&letterSpacing=25%25&duration=4000&pause=1000&color=FFFFFF&background=464F47BC&center=true&vCenter=true&width=900&height=100&lines=Lucas+Carvalho+%E2%80%94+Dev+Full+Stack" alt="Typing SVG" />
+  </a>
+</p>
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23464F47" width="22" height="22" /> Sobre Mim
 
@@ -47,13 +47,13 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:book-open.svg?color=%23464F47" width="22" height="22" /> Atualmente estudando
+### <img src="https://api.iconify.design/lucide:book-open.svg?color=%23464F47" width="22" height="22" style="vertical-align: middle" /> Atualmente estudando
 - Arquitetura de aplicações Full Stack
 - Desenvolvimento de APIs REST
 - Boas práticas de código e organização de projetos
 
 ---
 
-### <img src="https://api.iconify.design/lucide:mail.svg?color=%23464F47" width="22" height="22" align="center" /> Contato
+### <img src="https://api.iconify.design/lucide:mail.svg?color=%23464F47" width="22" height="22" style="vertical-align: middle" /> Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho-885395354)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascarvalhoo@outlook.com)
